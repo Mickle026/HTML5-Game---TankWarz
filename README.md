@@ -1,4 +1,4 @@
-# 🪖 **TANKWARZ — Amber Edition**
+# 🪖 **TANKWARZ**
 HTML5 Retro Tank Battle • Built entirely with JavaScript + Canvas  
 *(Standalone version, no external dependencies)*
 
