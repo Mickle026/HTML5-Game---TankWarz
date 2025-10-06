@@ -60,11 +60,8 @@ HTML5 Retro Tank Battle • Built entirely with JavaScript + Canvas
 
 ## 📂 File Structure
 TankWarz/
-├── TankWarz.html # Complete playable game
-├── README.md # This file
-├── docs/
-│ └── screenshot.png # (optional)
-└── LICENSE # MIT license
+TankWarz.html # Complete playable game
+README.md # This file
 
 ---
 
